@@ -4,7 +4,7 @@
 
 ##
 
-Como Executar o Projeto?
+## Como Executar o Projeto?
 
 Para rodar este projeto na sua máquina, siga os passos abaixo. É recomendado o uso de um ambiente virtual (venv) para isolar as dependências.
 
