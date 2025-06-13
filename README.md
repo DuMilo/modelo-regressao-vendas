@@ -33,7 +33,11 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Finalmente, execute o projeto.
+* Finalmente, execute o projeto (manualmente ou por linha de código):
+
+```
+jupyter notebook ml_vendas.ipynb
+```
 
 ##
 
