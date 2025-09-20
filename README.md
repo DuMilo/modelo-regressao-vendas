@@ -1,6 +1,6 @@
 # 📈 Modelo de Regressão Linear para Análise Preditiva de Vendas
 
-### Este projeto de Machine Learning utiliza um modelo de regressão linear para realizar uma análise preditiva sobre um conjunto de dados de vendas. O principal objetivo é treinar o modelo para alcançar uma alta acurácia na previsão de futuros resultados comerciais.
+#### Este projeto de Machine Learning utiliza um modelo de regressão linear para realizar uma análise preditiva sobre um conjunto de dados de vendas. O principal objetivo é treinar o modelo para alcançar uma alta acurácia na previsão de futuros resultados comerciais.
 
 ##
 
@@ -41,7 +41,7 @@ jupyter notebook ml_vendas.ipynb
 
 ##
 
-# Tecnologias Usadas
+## Tecnologias Usadas
 
 * **Linguagem de Programação**: Python
 * **Bibliotecas**: Pandas, Matplotlib, Seaborn, Scikit-Learn
